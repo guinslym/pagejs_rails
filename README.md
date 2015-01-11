@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install pagejs_rails
 
 ## Usage
+app/assets/javascript/application.js
 
-		//= require page
+	//= require page
 
 
 ## Contributing
