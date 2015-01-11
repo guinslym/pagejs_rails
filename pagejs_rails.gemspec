@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = PagejsRails::VERSION
   spec.authors       = ["Guinsly Mondesir"]
   spec.email         = ["agmond@gmx.com.br"]
-  spec.summary       = %q{Micro client-side router inspired by the Express router.}
+  spec.summary       = %q{A Rails implementation of visionmedia/page.js Micro client-side router inspired by the Express router.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = "https://github.com/guinslym/pagejs_rails"
   spec.license       = "MIT"
