@@ -7,16 +7,13 @@ TODO: Write a gem description
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'pagejs_rails'
+gem 'pagejs_rails', :git => 'https://github.com/guinslym/pagejs_rails.git'
 ```
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install pagejs_rails
 
 ## Usage
 app/assets/javascript/application.js
