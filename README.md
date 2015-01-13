@@ -9,6 +9,8 @@ Add this line to your application's Gemfile:
 ```ruby
 gem 'pagejs_rails', :git => 'https://github.com/guinslym/pagejs_rails.git'
 ```
+config/ini
+Rails.application.config.assets.precompile += %w( page.js )
 
 And then execute:
 
