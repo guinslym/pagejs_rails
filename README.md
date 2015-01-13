@@ -1,13 +1,13 @@
 # PagejsRails
 
-TODO: Write a gem description
+A Rails library implementation for the visionmedia/page.js -- The Micro client-side router inspired by the Express router
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'pagejs_rails', :git => 'https://github.com/guinslym/pagejs_rails.git'
+gem 'pagejs_rails'
 ```
 config/ini
 Rails.application.config.assets.precompile += %w( page.js )
