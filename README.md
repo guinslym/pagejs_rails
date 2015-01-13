@@ -1,6 +1,6 @@
 # PagejsRails
 
-A Rails library implementation for the visionmedia/page.js -- The Micro client-side router inspired by the Express router
+A Rails library implementation for the [visionmedia/page.js](http://visionmedia.github.io/page.js/) -- The Micro client-side router inspired by the Express router. [Rails Demo of page.js](https://github.com/guinslym/pagejs_rails_demo)
 
 ## Installation
 
